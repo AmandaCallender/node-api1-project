@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "node-api1-project",
+  "description": "## Topics",
+  "version": "1.0.0",
+  "main": "database.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaCallender/node-api1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaCallender/node-api1-project/issues"
+  },
+  "homepage": "https://github.com/AmandaCallender/node-api1-project#readme"
+}
